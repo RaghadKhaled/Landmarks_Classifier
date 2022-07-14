@@ -1,8 +1,5 @@
 # Detect and Classify Landmarks in images using CNN
 
-![Screenshot (631)](https://user-images.githubusercontent.com/68460588/178982767-7203da3b-bff9-49e0-a676-437507a924d7.png)
-
-
 --- 
 
 ## Overview
@@ -35,7 +32,15 @@ All the implementation details are in jupyter notebook file ``` landmark.ipynb``
 
 I test the model from image in my computer, the results are showed below. 
 
-![Untitled - Frame 1](https://user-images.githubusercontent.com/68460588/178982989-dc64563e-18b8-4b21-accf-13cce068fb7d.jpg)
+<div align="center">
+<p>
+<img src="Untitled - Frame 1.jpg" width="400" height="800"/>
+</p>
+<br>
+<div>
+</div>
+</div>
+
 
 
 ---
